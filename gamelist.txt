@@ -1,0 +1,320 @@
+1941: Counter Attack	1941	Capcom	1990	6button	cpsmame
+1942	1942	Capcom	1984	2button	cpsmame
+1943 Kai: Midway Kaisen	1943kai	Capcom	1987	2button	cpsmame
+1943: The Battle of Midway	1943	Capcom	1987	2button	cpsmame
+19XX: The War Against Destiny	19xx	Capcom	1996	6button	cpsmame
+2020 Super Baseball	2020bb	SNK / Pallas	1991	4button	neomame32plus
+3 Count Bout	3countb	SNK / Pallas	1993	4button	neomame32plus
+Aero Fighters 2	sonicwi2	Video System Co.	1994	4button	neomame32plus
+Aero Fighters 3	sonicwi3	Video System Co.	1995	4button	neomame32plus
+Agressors of Dark Kombat	aodk	AODK / SNK	1994	4button	neomame32plus
+Alien vs. Predator	avsp	Capcom	1994	6button	cpsmame
+Alpha Mission II	alpham2	SNK	1991	4button	neomame32plus
+Andro Dunos	androdun	Visco	1992	4button	neomame32plus
+Armored Warriors	armwaru	Capcom	1994	6button	cpsmame
+Art of Fighting	aof	SNK	1992	4button	neomame32plus
+Art of Fighting 2	aof2	SNK	1994	4button	neomame32plus
+Art of Fighting 3: The Path of the Warrior	aof3	SNK	1996	4button	neomame32plus
+ASO: Armored Scrum Object	aso	SNK	1985	2button	cpsmame
+The Astyanax	astyanax	Jaleco	1989	2button	cpsmame
+Asura Blade: Sword of Dynasty	asurabld	Fuuki	1998	2button	cpsmame
+Athena	athena	SNK	1987	2button	cpsmame
+Avengers	avengers	Capcom	1987	2button	cpsmame
+Bad Dudes Vs. Dragon Ninja	baddudes	Data East USA	1988	2button	cpsmame
+Bakatonosama Mahjong Manyuki	bakatono	Monolith Corp.	1991	4button	neomame32plus
+Bang Bead	bangbead	Visco	2000	4button	neomame32plus
+Baseball Stars Professional	bstars	SNK	1990	4button	neomame32plus
+Baseball Stars 2	bstars2	SNK	1992	4button	neomame32plus
+Battle Circuit	batcir	Capcom	1997	6button	cpsmame
+Battle Flip Shot	flipshot	Visco	1998	4button	neomame32plus
+Beast Busters	bbusters	SNK	1989	2button	cpsmame
+Bermuda Triangle	bermudat	SNK	1987	2button	cpsmame
+Bionic Commando	bionicc	Capcom	1987	2button	cpsmame
+Black Tiger	blktiger	Capcom	1987	2button	cpsmame
+Blandia	blandia	Allumer	1992	2button	cpsmame
+Blazing Star	blazstar	Temekobo	1998	4button	neomame32plus
+Blood Storm	bloodstm	Strata / Incredible Technologies	1994	2button	cpsmame
+Blue's Journey	bjourney	Alpha Denshi Co.	1990	4button	neomame32plus
+Breakers	breakers	Visco	1996	4button	neomame32plus
+Breakers Revenge	breakrev	Visco	1998	4button	neomame32plus
+Bubble Bobble	bublbobl	Taito Corporation	1986	2button	cpsmame
+Bubble Bobble 2	bublbob2	Taito Corporation Japan	1994	2button	cpsmame
+Bubble Memories: The Story of Bubble Bobble 3	bubblem	Taito Corporation Japan	1995	2button	cpsmame
+Burning Fight	burningf	SNK	1991	4button	neomame32plus
+Burning Rival	brival	Sega	1992	2button	cpsmame
+Cadash	cadash	Taito Corporation Japan	1989	2button	cpsmame
+Cadillacs and Dinosaurs	dino	Capcom	1993	6button	cpsmame
+Capcom Sports Club	csclub	Capcom	1997	6button	cpsmame
+Capcom World 2	cworld2j	Capcom	1992	6button	cpsmame
+Captain Commando	captcomm	Capcom	1991	6button	cpsmame
+Captain Tomaday	ctomaday	Visco	1999	4button	neomame32plus
+Carrier Air Wing	cawing	Capcom	1990	6button	cpsmame
+Chibi Marukochan Deluxe Quiz	marukodq	Takara	1995	4button	neomame32plus
+Chopper I	chopper	SNK	1988	2button	cpsmame
+Cleopatra Fortune	cleopatr	Taito Corporation	1996	2button	cpsmame
+Commando	commando	Capcom	1985	2button	cpsmame
+Crossed Swords	crsword	Alpha Denshi Co.	1991	4button	neomame32plus
+Crouching Tiger Hidden Dragon 2003	cthd2k3n	Phenixsoft Corporation	2003	4button	custmame
+Cyberbots: Fullmetal Madness	cybotsu	Capcom	1990	6button	cpsmame
+Cyber-Lip	cyberlip	SNK	1990	4button	neomame32plus
+Daraku Tenshi: The Fallen Angels	daraku	Psikyo	1998	4button	cpsmame
+Darkstalkers: The Night Warriors	dstlk	Capcom	1994	6button	cpsmame
+Dataeast's Ghostlop	ghostlop	Data East Corporation	1996	4button	neomame32plus
+Double Dragon	doubledr	Technos	1995	4button	neomame32plus
+Dragonball Z	dbz	Banpresto	1993	2button	cpsmame
+Dragonball Z 2 Super Battle	dbz2	Banpresto	1994	2button	cpsmame
+Dragoon Might	dragoona	Konami	1995	2button	cpsmame
+Dungeons && Dragons: Shadow over Mystara	ddsom	Capcom	1996	6button	cpsmame
+Dungeons && Dragons: Tower of Doom	ddtod	Capcom	1993	6button	cpsmame
+Dynasty Warriors	dw	Capcom	1989	6button	cpsmame
+Eco Fighters	ecofghtr	Capcom	1993	6button	cpsmame
+Eight Man	eightman	SNK / Pallas	1991	4button	neomame32plus
+Exciting Soccer	exctsccr	Alpha Denshi Co.	1983	2button	cpsmame
+Exed Exes	exedexes	Capcom	1985	2button	cpsmame
+F-1 Dream	f1dream	Capcom	1988	2button	cpsmame
+Fantasy	fantasy	SNK	1981	2button	cpsmame
+Far East of Eden Zero: Kabuki Klash	kabukikl	SNK	1995	4button	neomame32plus
+Fatal Fury: King of Fighters	fatfury1	SNK	1991	4button	neomame32plus
+Fatal Fury Special	fatfursp	SNK	1993	4button	neomame32plus
+Fatal Fury 2	fatfury2	SNK	1992	4button	neomame32plus
+Fatal Fury 3	fatfury3	SNK	1995	4button	neomame32plus
+Fight Fever	fightfev	Viccom	1994	4button	neomame32plus
+Fighter's History Dynamite	karnovr	Data East Corporation	1994	4button	neomame32plus
+Fighting Golf	fitegolf	SNK	1988	2button	cpsmame
+Fighting Soccer	ftsoccer	SNK	1988	2button	cpsmame
+Final Fight	ffight	Capcom	1989	6button	cpsmame
+Football Frenzy	fbfrenzy	SNK	1992	4button	neomame32plus
+Forgotten Worlds	forgottn	Capcom	1988	6button	cpsmame
+Galaxy Fight: Universal Warriors	galaxyfg	Sunsoft	1995	4button	neomame32plus
+Gang Wars	gangwars	Alpha Denshi Co.	1989	2button	cpsmame
+Garou: Mark of the Wolves	garou	SNK	1999	4button	neomame32plus
+Ghost Pilots	gpilots	SNK	1991	4button	neomame32plus
+Ghosts'n Goblins	gng	Capcom	1985	2button	cpsmame
+Ghouls'n Ghosts	ghouls	Capcom	1988	6button	cpsmame
+Gladiator 1984	sgladiat	SNK	1984	2button	cpsmame
+Gold Medalist	goldmedl	SNK	1988	2button	cpsmame
+Guerrila War	gwar	SNK	1987	2button	cpsmame
+Gun Smoke	gunsmoke	Capcom	1985	2button	cpsmame
+Guruin	gururin	Face	1994	4button	neomame32plus
+HAL21	hal21	SNK	1985	2button	cpsmame
+High Voltage	hvoltage	Alpha Denshi Co.	1985	2button	cpsmame
+The History of Martial Arts	histryma	Bootleg	199?	2button	cpsmame
+Ikari Warriors	ikari	SNK	1986	2button	cpsmame
+Ikari III: The Rescue	ikari3	SNK	1989	2button	cpsmame
+The Irritating Maze	irrmaze	SNK / Saurus	1997	4button	neomame32plus
+Janshin Densetsu: Quest of the Jongmaster	janshin	Aicom	1994	4button	neomame32plus
+JoyfulRoad	joyfulr	SNK	1983	2button	cpsmame
+Jumping Cross	jcross	SNK	1984	2button	cpsmame
+Kaiser Knuckle	kaiserkn	Taito Corporation Japan	1994	2button	cpsmame
+Karnov	karnov	Data East USA	1987	2button	cpsmame
+The King of Dragons	kod	Capcom	1991	6button	cpsmame
+The King of Fighters '94	kof94	SNK	1994	4button	neomame32plus
+The King of Fighters '95	kof95	SNK	1995	4button	neomame32plus
+The King of Fighters '96	kof96	SNK	1996	4button	neomame32plus
+The King of Fighters '96 Evolution	kof96evo	SNK	1996	4button	neomame32plus
+The King of Fighters '97	kof97	SNK	1997	4button	neomame32plus
+The King of Fighters '97 Plus	kof97pls	Bootleg	1997	4button	neomame32plus
+The King of Fighters '98: The Slugfest	kof98	SNK	1998	4button	neomame32plus
+The King of Fighters '99: Milennium Battle	kof99n	SNK	1999	4button	neomame32plus
+The King of Fighters 2000	kof2000n	SNK	2000	4button	neomame32plus
+The King of Fighters 2001	kof2001n	Eolith / SNK	2001	4button	custmame
+The King of Fighters 2002: Challenge to Ultimate Battle	kof2002n	Eolith / Playmore Corporation	2002	4button	neomame32plus
+The King of Fighters 2003	kof2003n	SNK Playmore	2003	4button	custmame
+The King of Fighters 2004 EX Hero	kof2004h	Bootleg	2004	4button	neomame32plus
+King of the Monsters	kotm	SNK	1991	4button	neomame32plus
+King of the Monsters 2: The Next Thing	kotm2	SNK	1992	4button	neomame32plus
+Kizuna Encounter: Super Tag Battle	kizuna	SNK	1996	4button	neomame32plus
+Knights of the Round	knights	Capcom	1991	6button	cpsmame
+Knuckle Heads	knckhead	Namco	1992	2button	cpsmame
+The Koukouyakyuu	kouyakyu	Alpha Denshi Co.	1985	2button	cpsmame
+Lasso	lasso	SNK	1982	2button	cpsmame
+The Last Blade	lastblad	SNK	1997	4button	neomame32plus
+The Last Blade 2	lastbld2	SNK	1998	4button	neomame32plus
+Last Duel	lastduel	Capcom	1988	2button	cpsmame
+Last Resort	lresort	SNK	1992	4button	neomame32plus
+League Bowling	lbowling	SNK	1990	4button	neomame32plus
+Legend of Success Joe	legendos	SNK	1991	4button	neomame32plus
+Legendary Wings	lwings	Capcom	1986	2button	cpsmame
+Mad Crasher	madcrash	SNK	1989	2button	cpsmame
+Mad Gear	madgear	Capcom	1989	2button	cpsmame
+Magic Sword: Heroic Fantasy	msword	Capcom	1990	6button	cpsmame
+Magical Drop II	magdrop2	Data East Corporation	1996	4button	neomame32plus
+Magical Drop III	magdrop3	Data East Corporation	1997	4button	neomame32plus
+Magician Lord	maglord	Alpha Denshi Co.	1990	4button	neomame32plus
+Mahjong Kyoretsuden	mahretsu	SNK	1996	4button	neomame32plus
+Main Event	mainsnk	SNK	1984	2button	cpsmame
+Marvel Super Heroes	mshu	Capcom	1995	6button	cpsmame
+Marvel Super Heroes Vs. Street Fighter	mshvsf	Capcom	1997	6button	cpsmame
+Marvel Vs. Capcom	mvsc	Capcom	1998	6button	cpsmame
+Marvin's Maze	marvins	SNK	1983	2button	cpsmame
+Mechanized Arrack	mechatt	SNK	1989	2button	cpsmame
+Mega Man: The Power Battle	megaman	Capcom	1995	6button	cpsmame
+Mega Man 2: The Power Fighters	megaman2	Capcom	1996	6button	cpsmame
+Mega Twins	mtwins	Capcom	1990	6button	cpsmame
+Mercs	mercs	Capcom	1990	6button	cpsmame
+Metal Slug: Super Vehicle-001	mslug	Nazca	1996	4button	neomame32plus
+Metal Slug 2: Super Vehicle-001	mslug2	SNK	1998	4button	neomame32plus
+Metal Slug 3	mslug3n	SNK	2000	4button	neomame32plus
+Metal Slug 4	mslug4n	Mega Enterprise / Playmore Corporation	2002	4button	custmame
+Metal Slug 5	mslug5n	SNK Playmore	2003	4button	custmame
+Metal Slug X: Super Vehicle-001	mslugx	SNK	1999	4button	neomame32plus
+Minnasanno Okagesamadesu	minasan	Monolith Corp.	1990	4button	neomame32plus
+Money Puzzle Exchanger	miexchng	Face	1997	4button	neomame32plus
+Mortal Kombat	mk	Midway	1992	2button	cpsmame
+Mortal Kombat II	mk2	Midway	1993	2button	cpsmame
+Mortal Kombat 3	mk3	Midway	1994	2button	cpsmame
+Musashi Ganryuuki	ganryud	Visco	1999	4button	neomame32plus
+Mutation Nation	mutnat	SNK	1992	4button	neomame32plus
+NAM-1975	nam1975	SNK	1990	4button	neomame32plus
+Nemo	nemo	Capcom	1990	6button	cpsmame
+Neo Bomberman	neobombe	Hudson	1997	4button	neomame32plus
+Neo Drift Out: New Technology	neodrift	Visco	1996	4button	neomame32plus
+Neo Mr. Do!	neomrdo	Visco	1996	4button	neomame32plus
+Neo No Panepon	neonopon	Blaster	2002	4button	neomame32plus
+Neo Pong	neopong	Neodev	2002	4button	neomame32plus
+Neo Turf Masters	turfmast	Nazca	1996	4button	neomame32plus
+Neo-Geo Cup '98	neocup98	SNK	1998	4button	neomame32plus
+The Next Space	tnexspce	SNK	1989	2button	cpsmame
+Nightmare in the Dark	nitdd	Eleven / Gavaking	2000	4button	neomame32plus
+Ninja Combat	ncombat	Alpha Denshi Co.	1990	4button	neomame32plus
+Ninja Commando	ncommand	Alpha Denshi Co.	1992	4button	neomame32plus
+Ninja Masters: Haou-Ninpo-Cho	ninjamas	ADK / SNK	1996	4button	neomame32plus
+Over Top	overtop	ADK	1996	4button	neomame32plus
+P.O.W.: Prisoners of War	pow	SNK	1988	2button	cpsmame
+Paddle Mania	paddlema	SNK	1988	2button	cpsmame
+Pang! 3	pang3	Mitchell	1995	6button	cpsmame
+Panic Bomber	panicbom	Eighting / Hudson	1994	4button	neomame32plus
+Pioneer Balloon	pballoon	SNK	1982	2button	cpsmame
+Pirate Ship Hidemaru	higemaru	Capcom	1984	2button	cpsmame
+Pleasure Goal	pgoal	Saurus	1996	4button	neomame32plus
+Pnickies	pnickj	Compile	1994	6button	cpsmame
+Pop 'n Bounce	popbounc	Video System Co.	1997	4button	neomame32plus
+Power Instinct	powerins	Atlus	1993	2button	cpsmame
+Power Instinct 2	pwrinst2	Atlus / Cave	1994	2button	cpsmame
+Power Instinct: Matrimelee	pwrins4n	Atlus / Noise Factory	2003	4button	custmame
+Power Spikes II	pspikes2	Video System Co.	1994	4button	neomame32plus
+Prehistoric Isle in 1930	prehisle	SNK	1989	2button	cpsmame
+Prehistoric Isle 2	preisle2	Yumekobo	1999	4button	neomame32plus
+Psycho Soldier	psychos	SNK	1987	2button	cpsmame
+Pulstar	pulstar	Aicom	1995	4button	neomame32plus
+The Punisher	punisher	Capcom	1993	6button	cpsmame
+Puzzle Bobble	pbobblen	Taito	1994	4button	neomame32plus
+Puzzle Bobble 2	pbobbl2n	Taito (SNK License)	1999	4button	neomame32plus
+Puzzle Bobble 3	pbobble3	Taito Corporation	1996	2button	cpsmame
+Puzzle Bobble 4	pbobble4	Taito Corporation	1997	2button	cpsmame
+Puzzle De Pon!	puzzledp	Taito (Visco License)	1995	4button	neomame32plus
+Puzzle De Pon! R!	puzzldpr	Taito (Visco License)	1997	4button	neomame32plus
+Puzzled	joyjoy	SNK	1990	4button	neomame32plus
+Quiz && Dragons	qad	Capcom	1992	6button	cpsmame
+Quiz Daisousa Sen: The Last Count Down	quizdais	SNK	1991	4button	neomame32plus
+Quiz King of Fighters	quizkof	Saurus	1995	4button	neomame32plus
+Quiz Meitantei Neo && Geo	quizdai2	SNK	1992	4button	neomame32plus
+Quiz Nanairo Dreams: Nijiirochou no Kiseki	qndream	Capcom	1996	6button	cpsmame
+Quiz Tonosama no Yabou	qtono1	Capcom	1991	6button	cpsmame
+Quiz Tonosama no Yabou 2 Zenkoku-ban	qtono2	Capcom	1995	6button	cpsmame
+Rage of the Dragons	rotdn	Evoga / Playmore Corporation	2002	4button	custmame
+Ragnagard	ragnagrd	Saurus	1996	4button	neomame32plus
+Rainbow Islands	rainbow	Taito Corporation	1987	2button	cpsmame
+Real Bout Fatal Fury	rbff1	SNK	1995	4button	neomame32plus
+Real Bout Fatal Fury Special	rbffspec	SNK	1996	4button	neomame32plus
+Real Bout Fatal Fury 2: The Newcomers	rbff2	SNK	1998	4button	neomame32plus
+Reikai Doushi	reikaids	Home Data	1988	2button	cpsmame
+Riding Hero	ridhero	SNK	1990	4button	neomame32plus
+Ring of Destruction: Slammasters II	ringdest	Capcom	1994	6button	cpsmame
+Robo Army	roboarmy	SNK	1991	4button	neomame32plus
+Samurai Shodown	samsho	SNK	1993	4button	neomame32plus
+Samurai Shodown II	samsho2	SNK	1994	4button	neomame32plus
+Samurai Shodown III	samsho3	SNK	1995	4button	neomame32plus
+Samurai Shodown IV: Amakusa's Revenge	samsho4	SNK	1996	4button	neomame32plus
+Samurai Shodown V	samsho5n	Yuki Enterprise / SNK Playmore	2003	4button	custmame
+SAR: Search And Rescue	searchar	SNK	1989	2button	cpsmame
+Sasuke Vs. Commander	sasuke	SNK	1980	2button	cpsmame
+Satan of Saturn	satansat	SNK	1981	2button	cpsmame
+Saturday Night Slam Masters	slammast	Capcom	1993	6button	cpsmame
+Savage Reign	savagere	SNK	1995	4button	neomame32plus
+Section Z	sectionz	Capcom	1985	2button	cpsmame
+Sengoku	sengoku	SNK	1991	4button	neomame32plus
+Sengoku 2	sengoku2	SNK	1993	4button	neomame32plus
+Sengoku 3: Legends	sengoku3	SNK	2001	4button	neomame32plus
+Shock Troopers	shocktro	Saurus	1997	4button	neomame32plus
+Shock Troopers: 2nd Squad	shocktr2	Saurus	1998	4button	neomame32plus
+Shougi No Tatsujin: Master of Shougi	mosyougi	ADK / SNK	1995	4button	neomame32plus
+Side Arms: Hyper Dyne	sidearms	Capcom	1986	2button	cpsmame
+Sky Adventure	skyadvnt	Alpha Denshi Co.	1989	2button	cpsmame
+Sky Soldiers	skysoldr	SNK / Alpha Denshi Co.	1988	2button	cpsmame
+Smash T.V.	smashtv	Williams	1990	2button	cpsmame
+Soccer Brawl	socbrawl	SNK	1991	4button	neomame32plus
+Son Son	sonson	Capcom	1984	2button	cpsmame
+Space Invaders	invaders	Midway	1978	2button	cpsmame
+Space Invaders '95: Attack of the Lunar Loonies	spcinv95	Taito Corporation Japan	1995	2button	cpsmame
+Space Invaders DX	spacedx	Taito Corporation	1994	2button	cpsmame
+Space Invaders Part II	invadpt2	Taito	1979	2button	cpsmame
+The Speed Rumbler	srumbler	Capcom	1986	2button	cpsmame
+Spin Master	spinmast	Data East Corporation	1993	4button	neomame32plus
+Splendor Blast	splndrbt	Alpha Denshi Co.	1985	2button	cpsmame
+Stakes Winner	stakwin	Saurus	1995	4button	neomame32plus
+Stakes Winner 2	stakwin2	Saurus	1996	4button	neomame32plus
+Street Fighter	sf1	Capcom	1987	2button	cpsmame
+Street Fighter II: The World Warrior	sf2	Capcom	1991	6button	cpsmame
+Street Fighter II: Champion Edition	sf2ce	Capcom	1992	6button	cpsmame
+Street Fighter II: Hyper Fighting	sf2t	Capcom	1992	6button	cpsmame
+Street Fighter Alpha: Warriors' Dreams	sfa	Capcom	1995	6button	cpsmame
+Street Fighter Alpha 2	sfa2	Capcom	1996	6button	cpsmame
+Street Fighter Zero 2 Alpha	sfz2aj	Capcom	1996	6button	cpsmame
+Street Fighter Alpha 3	sfa3	Capcom	1998	6button	cpsmame
+Street Hoop	strhoop	Data East Corporation	1994	4button	neomame32plus
+Street Smart	streetsm	SNK	1989	2button	cpsmame
+Strider Hiryuu	strider	Capcom	1989	6button	cpsmame
+Strikers 1945 Plus	s1945p	Psikyo	1999	4button	neomame32plus
+Super Champion Baseball	sbasebal	SNK / Alpha Denshi Co.	1989	2button	cpsmame
+Super Dodge Ball	spdodgeb	Technos	1996	4button	neomame32plus
+Super Puzzle Fighter 2 X	spf2t	Capcom	1996	6button	cpsmame
+Super Sidekicks	ssideki	SNK	1992	4button	neomame32plus
+Super Sidekicks 2: The World Championship	ssideki2	SNK	1994	4button	neomame32plus
+Super Sidekicks 3: The Next Glory	ssideki3	SNK	1995	4button	neomame32plus
+The Super Spy	superspy	SNK	1990	4button	neomame32plus
+Super Stingray	sstingry	Alpha Denshi Co.	1986	2button	cpsmame
+Super Street Fighter II: The New Challengers	ssf2	Capcom	1993	6button	cpsmame
+Super Street Fighter II Turbo	ssf2t	Capcom	1994	6button	cpsmame
+SVC Chaos: SNK Vs. Capcom	svcchaos	Playmore Corporation / Capcom Ltd.	2003	4button	custmame
+SVC Chaos Plus	svcplus	Playmore Corporation / Capcom Ltd.	2003	4button	custmame
+SVC Chaos Perfect	svcprfct	Playmore Corporation / Capcom Ltd.	2003	4button	custmame
+T.N.K. III	tnk3	SNK	1985	2button	cpsmame
+Tecmo World Soccer '96	tws96	Tecmo	1996	4button	neomame32plus
+Thrash Rally	trally	Alpha Denshi Co.	1991	4button	neomame32plus
+Three Wonders	3wonders	Capcom	1991	6button	cpsmame
+Time Killers	timekill	Strata / Incredible Technologies	1992	2button	cpsmame
+Time Soldiers	timesold	SNK / Alpha Denshi Co.	1987	2button	cpsmame
+Top Hunter: Roddy && Cathy	tophuntr	SNK	1994	4button	neomame32plus
+Top Player's Golf	tpgolf	SNK	1990	4button	neomame32plus
+TouchDown Fever	tdfever	SNK	1987	2button	cpsmame
+Trojan	trojan	Capcom	1986	2button	cpsmame
+Twinkle Star Sprites	twinspri	ADK	1996	4button	neomame32plus
+U.N. Squadron	unsquad	Capcom	1989	6button	cpsmame
+The Ultimate 11: The SNK Football Championship	ssideki4	SNK	1996	4button	neomame32plus
+Ultimate Mortal Kombat 3	umk3	Midway	1994	2button	cpsmame
+Vampire Hunter 2: Darkstalkers Revenge	vhunt2r1	Capcom	1997	6button	cpsmame
+Vampire Savior: The Lord of Vampire	vsav	Capcom	1997	6button	cpsmame
+Vanguard	vanguard	SNK	1981	2button	cpsmame
+Vanguard II	vangrd2	SNK	1984	2button	cpsmame
+Varth: Operation Thunderstorm	varth	Capcom	1992	6button	cpsmame
+Victory Road	victroad	SNK	1986	2button	cpsmame
+Viewpoint	viewpoin	Sammy	1992	4button	neomame32plus
+Violence Fight	viofight	Taito Corporation Japan	1989	2button	cpsmame
+V-Liner	vliner	Aruze	2001	4button	neomame32plus
+Voltage Fighter: Gowcaizer	gowcaizr	Technos	1995	4button	neomame32plus
+Vulgus	vulgus	Capcom	1984	2button	cpsmame
+Waku Waku 7	wakuwak7	Sunsoft	1996	4button	neomame32plus
+Warriors of Fate	wof	Capcom	1992	6button	cpsmame
+Willow	willow	Capcom	1989	6button	cpsmame
+Windjammers	wjammers	Data East Corporation	1994	4button	neomame32plus
+World Heroes	wh1	Alpha Denshi Co.	1992	4button	neomame32plus
+World Heroes Perfect	whp	ADK / SNK	1996	4button	neomame32plus
+World Heroes 2	wh2	ADK	1993	4button	neomame32plus
+World Heroes 2 Jet	wh2j	ADK / SNK	1994	4button	neomame32plus
+X-Men Vs. Street Fighter	xmvsf	Capcom	1996	6button	cpsmame
+X-Men: Children of the Atom	xmcota	Capcom	1994	6button	cpsmame
+Zed Blade	zedblade	NMK	1994	4button	neomame32plus
+Zero Wing	zerowing	Toaplan	1989	2button	cpsmame
+ZinTricK	zintrkcd	ADK / SNK	1996	4button	neomame32plus
+Zupapa!	zupapa	SNK	2001	4button	neomame32plus
